@@ -102,8 +102,10 @@ I simulated a circuit to estimate distance between an obstacle and a sensor usin
 ## Speed control of DC motor
 --------------------------------------------------
 
-Control the speed of a 5V BO motor by utilizing an Arduino board and the L298N motor driver. This task involves employing an UNO board and an H-Bridge L298N motor driver for regulating the speed of the DC motor. It's a practical application, showcasing how to interface these components to achieve motor control through an Arduino-based setup.
-Simulated on tinkercad first and tried to implement the same practically.
+Control the speed of a 5V BO motor by utilizing an Arduino board and the L298N motor driver. This task involves employing an UNO board and an H-Bridge L298N motor driver to regulate the speed of the DC motor. It's a practical application, showcasing how to interface these components to achieve motor control through an Arduino-based setup.
+Simulated on Tinkercad first and tried to implement the same practically.
 
 ![image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task10.png?raw=true)
-
+![image2](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task10a.jpg?raw=true)
+#### Video
+[![image of video]()](https://youtube.com/shorts/8v52LMCWGYM?si=gy-Ly8V5NGg1XSjy)
