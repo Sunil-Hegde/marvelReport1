@@ -52,7 +52,9 @@ Kaggle is a popular data science learning and contest platform where users can l
 I trained my first machine learning model using pandas for the Titanic ML contest on Kaggle, predicting the survival rate of passengers based on gender and age.
 
 ![Titanic ML1](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task5.png?raw=true)
+
 ![Titanic ML2](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task5a.png?raw=true)
+
 ![Titanic ML3](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task5b.png?raw=true)
 
 ## Working with pandas and matplotlib
@@ -106,6 +108,68 @@ Control the speed of a 5V BO motor by utilizing an Arduino board and the L298N m
 Simulated on Tinkercad first and tried to implement the same practically.
 
 ![image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task10.png?raw=true)
+
 ![image2](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task10a.jpg?raw=true)
 #### Video
-[![image of video]()](https://youtube.com/shorts/8v52LMCWGYM?si=gy-Ly8V5NGg1XSjy)
+[![image of video](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task10b.png?raw=true)](https://youtube.com/shorts/8v52LMCWGYM?si=gy-Ly8V5NGg1XSjy)
+
+## LED Toggle Using ESP32
+--------------------------------------------------
+
+ESP32 is a low-cost system on a chip withWi-Fi and dual mode bluetooth. We created a standalone webserver which can toggle LEDs connected with ESP32 GPIOs(General purpose inputs/ outputs). We used Arduino IDE(Integrated development environment) to code and upload the program to ESP32.
+
+![ESP32](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task11.jpg?raw=true)
+
+## Soldering Prerequisites
+--------------------------------------------------
+
+We learnt the fundamentals of soldering, including using tools like a soldering iron and flux. As a hands-on application, We simulated and soldered a basic circuit featuring an LED and a switch on a copper breadboard.
+
+![Simulation](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task12.png?raw=true)
+
+![irl](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task12a.jpg?raw=true)
+
+## 555 Astable multivibrator
+--------------------------------------------------
+
+This circuit is a basic oscillator that produces a continuous pulse output. The frequency is adjustable using two resistors, R1 and R2. To achieve a 60% duty cycle, the relationship between R1 and R2 is set as R1 equal to 2 times R2. 
+
+In our setup, we substituted one of the resistors with a potentiometer to attain the same effect, allowing for convenient adjustment of the circuit's parameters.
+
+#### Circuit:
+
+![circuit](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task13b.jpg?raw=true)
+
+#### Set-up:
+
+![setup](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task13.jpg?raw=true)
+
+#### Output:
+
+![output](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task13a.jpg?raw=true)
+
+## K-Map and Logic Circuits:
+--------------------------------------------------
+
+Karnaugh map is a method of simplifying Boolean algebra expressions. The goal was to make the alarm (represented by an LED) beep only when the door is locked and the key is not inserted. The logic circuit can be derived as follows:
+
+![kmap](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task14.jpg?raw=true)
+
+#### Simulation of the same circuit:
+
+![simulation]()
+
+The LED lights up only when the door is locked and the key is not inserted.
+
+## Active Participation
+--------------------------------------------------
+#### Kagada 2023 conducted by IEEE UVCE
+
+![kagada](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task15a.png?raw=true)
+
+#### MOOC offered by Kaggle.org
+
+![python](https://github.com/Sunil-Hegde/marvelReport1/blob/main/task15b.png?raw=true)
+
+
+
