@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Colour</title>
+    <style>
+        body{
+            background-color: green;
+            transition: background-color 0.5s ease;
+        }
+        .button{
+            display: flex;
+            height: 95vh;
+            justify-content: center;
+            align-items: center;
+        }
+        .button div{
+            border: 1px black solid;
+            padding: 20px;
+            cursor: pointer;
+            border-radius: 10px;
+            background-color: grey;
+        }
+    </style>
+</head>
+<body>
+    <div class="button">
+        <div onclick="toggleBackgroundColor()">Click me!</div>
+    </div>
+</body>
+<script>
+    function toggleBackgroundColor() {
+        var body = document.body;
+        body.style.backgroundColor = body.style.backgroundColor === 'green' ? 'red' : 'green';
+    }
+</script>
+</html>
