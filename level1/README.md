@@ -104,8 +104,8 @@ Major problems we placed were uploading the code and trying to make the code run
 
 #
 ##### Video:
-![Serial monitor](./task6/task6.png)
-https://youtu.be/ckJxilkTiOg
+[![Serial monitor](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task8/task8.png?raw=true)](https://youtu.be/ckJxilkTiOg)
+
 It flashed the message "hello marvel".
 
 # Task 9 - Soil Moisture Sensor
@@ -117,10 +117,11 @@ Capacitive soil moisture sensor works by checking the charge storing capacity of
 
 #
 ##### Serial Monitor:
-![Serial monitor](./task9/task9.png)
+![Serial monitor](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9.png?raw=true)
 #
 ##### Plant and sensor:
-![Vitals](./task9/task9.jpeg)
+![Vitals](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9.jpeg?raw=true)
+**Experience:** The sensor displayed absurd values in the beginning and once I switched the sensor with an another one it showed correct numbers.
 
 # Task 10 - Read and Display Vitals
 -------------------------------------------
@@ -129,4 +130,6 @@ We were tasked to measure SPO2 levels and Heart rate using ESP32 and MAX30100 se
 **MAX30100** is a pulse oximeter and heart rate sensor which uses photo diodes and receptors to determine the level of blood ogygen level and heart rate per minute. But how does that work? Follow [this](https://www.youtube.com/watch?v=BFZxlauizx0) link to understand how a simplest type of camera can be used to determine body vitals.
 
 ##### Vitals:
-![Vitals](./task10/task10.png)
+![Vitals](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task10/task10.png?raw=true)
+
+**Experience:** We were a given a 16x2 LCD display to display the vitals but after trying a lot of times without any success we switched to an OLED screen and a new MAX30100 sensor. Everything worked properly and it displayed the vitals quite accurately.
