@@ -75,10 +75,10 @@ We were tasked to collect temperature data from DHT11 sensor and send it to Thin
 As we can see in the serial monitor, ESP32 collects data from DHT11 sensor and using ThinSpeak API sends the data to the website using HTTP request. HTTP request code 200 tells us that the connection was successful and the data was transmitted successfully.
 #
 ##### Video:
-![Serial monitor](./task6/task6.png)
+![Video GIF](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task6/task6.gif?raw=true)
 #
 ##### Data visualisation in ThingSpeak website:
-![Serial monitor](./task6/task6.png)
+![Data](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task6/task6.jpeg?raw=true)
 
 **Experience:** Once the ThingSpeak API was available, everything became easy. DHT11 sensor was not working and HTTP request was failing in the beginning. Everything started working properly after I replaced the sensor and checked all the connections and corrected them.
 
@@ -105,6 +105,7 @@ Major problems we placed were uploading the code and trying to make the code run
 #
 ##### Video:
 ![Serial monitor](./task6/task6.png)
+https://youtu.be/ckJxilkTiOg
 It flashed the message "hello marvel".
 
 # Task 9 - Soil Moisture Sensor
