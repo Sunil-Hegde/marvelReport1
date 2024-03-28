@@ -10,13 +10,13 @@ I used an **ESP 32**, LEDs and push buttons to realise the project.
 Here are the photos, videos, and links for a visual representation.
 
 ##### Simulation:
-![Simulation image](./task1/task1.png)
+![Simulation image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task1/task1.png)
 #
 ##### Circuit:
-![Simulation image](./task1/task1.png)
+![Circuit image](./task1/task1.png)
 #
 ##### Video
-![Simulation image](./task1/task1.png)
+![Game video](./task1/task1.png)
 #
 #### Here is the [Link](https://wokwi.com/projects/393452127179111425) for the wokwi simulation. 
 #### Here is the [Link](https://wokwi.com/projects/393452127179111425) for the source code. 
@@ -38,7 +38,7 @@ Some other communication protocols are:
 -------------------------------------------
 The task was to create a webpage which toggles background colour based on clicking a button. It uses basic HTML, CSS and Javascript.
 ##### Simulation:
-![Website GIF](./task3/task3.gif)
+![Website GIF](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task3/task3.gif?raw=true)
 #### Here is the [Link](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/button.html) for the source code.
 
 # Task 4 - ESP32 Cam
@@ -51,15 +51,15 @@ ESP32 CAM has no onboard data connection port so we had to use FTDI programmer t
 Here are the photos, videos, and links for a visual representation.
 
 ##### Circuit Diagram:
-![Diagram](./task4/task4.webp)
+![Diagram](https://raw.githubusercontent.com/Sunil-Hegde/marvelReport1/main/level1/task4/task4.webp)
 #
     Important:
         Jumper cable connecting IO0 and GND pin must be disconnected once the code is uploaded to the module.
 ##### Circuit:
-![Simulation image](./task4/task4.jpg)
+![Circuit image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task4/task4.jpg?raw=true)
 #
 ##### Video
-![Simulation image](./task1/task1.png)
+[![Simulation image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task4/task4.jpg?raw=true)](https://youtu.be/4sFXOVxL_zk)
 #
 **Experience:** I did this task using my computer and it was bit of work to install Arduino IDE and setting it up but after that everything worked smoothly. 
 
