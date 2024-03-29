@@ -134,6 +134,7 @@ Capacitive soil moisture sensor works by checking the charge storing capacity of
 #
 ##### Plant and sensor:
 ![Vitals](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9.jpeg?raw=true)
+
 **Experience:** The sensor displayed absurd values in the beginning and once I switched the sensor with an another one it showed correct numbers.
 
 # Task 10 - Read and Display Vitals
