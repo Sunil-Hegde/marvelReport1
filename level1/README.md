@@ -10,10 +10,7 @@ I used an **ESP 32**, LEDs and push buttons to realise the project.
 Here are the photos, videos, and links for a visual representation.
 
 ##### Simulation:
-![Simulation image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task1/task1.png)
-#
-##### Circuit:
-![Circuit image](./task1/task1.png)
+![Simulation image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task1/task1.png?raw=true)
 #
 ##### Video
 ![Game video](./task1/task1.png)
@@ -88,11 +85,24 @@ The **I2C** (Inter-Integrated Circuit) protocol is a synchronous, multi-master, 
 
 The task was establish connection between ESP32 and Arduino board, send message between them using I2C protocol and display the message on the serial monitor. 
 #
-##### Video:
-![Serial monitor](./task6/task6.png)
+##### Circuit:
+![Citcuit](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task7/task7.jpg?raw=true)
 #
 ##### Serial Monitor:
-![Serial monitor](./task6/task6.png)
+    Message Recieved:
+    Hello Marvel
+
+    Message Recieved:
+    Hello Marvel
+
+    Message Recieved:
+    Hello Marvel
+
+    Message Recieved:
+    Hello Marvel
+
+    Message Recieved:
+    Hello Marvel
 
 **Experience:** It was difficult to understand how it works but after a few trials it worked and the message was successfully displayed on the serial monitor.
 
@@ -118,6 +128,9 @@ Capacitive soil moisture sensor works by checking the charge storing capacity of
 #
 ##### Serial Monitor:
 ![Serial monitor](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9.png?raw=true)
+#
+##### Circuit:
+![Citcuit](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9a.jpeg?raw=true)
 #
 ##### Plant and sensor:
 ![Vitals](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task9/task9.jpeg?raw=true)
