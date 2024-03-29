@@ -13,7 +13,7 @@ Here are the photos, videos, and links for a visual representation.
 ![Simulation image](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task1/task1.png?raw=true)
 #
 ##### Video
-![Game video](./task1/task1.png)
+[![Game video](https://github.com/Sunil-Hegde/marvelReport1/blob/main/level1/task1/task1b.png?raw=true)](https://youtube.com/shorts/3f5WE-F0Ms8)
 #
 #### Here is the [Link](https://wokwi.com/projects/393452127179111425) for the wokwi simulation. 
 #### Here is the [Link](https://wokwi.com/projects/393452127179111425) for the source code. 
